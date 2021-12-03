@@ -1,0 +1,4 @@
+.idea
+venv
+__pycache__
+aoc2021.iml
