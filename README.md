@@ -12,8 +12,8 @@
 | 8   |  done  |  done  |
 | 9   |  done  |  done  |
 | 10  |  done  |  done  |
-| 11  |||
-| 12  |||
+| 11  |  done  |  done  |
+| 12  | done| done|
 | 13  |||
 | 14  |||
 | 15  |||
