@@ -14,7 +14,7 @@
 | 10  |  done  |  done  |
 | 11  |  done  |  done  |
 | 12  | done| done|
-| 13  |||
+| 13  | done| done|
 | 14  |||
 | 15  |||
 | 16  |||
