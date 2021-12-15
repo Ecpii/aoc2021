@@ -13,9 +13,9 @@
 | 9   |  done  |  done  |
 | 10  |  done  |  done  |
 | 11  |  done  |  done  |
-| 12  | done| done|
-| 13  | done| done|
-| 14  |||
+| 12  |  done  |  done  |
+| 13  |  done  |  done  |
+| 14  |  done  | think  |
 | 15  |||
 | 16  |||
 | 17  |||
