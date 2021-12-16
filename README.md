@@ -15,7 +15,7 @@
 | 11  |  done  |  done  |
 | 12  |  done  |  done  |
 | 13  |  done  |  done  |
-| 14  |  done  | think  |
+| 14  |  done  |  done  |
 | 15  |||
 | 16  |||
 | 17  |||
